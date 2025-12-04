@@ -34,13 +34,15 @@ Built to track deadlines, statuses, companies, and insights in one place.
 ---
 
 ## 📂 Project Structure
+```
 python-internship-tracker/
 │
-├── app.py # Main CLI application
-├── db.py # Database functions and connection
-├── tracker.log # Log file (auto-generated)
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── app.py              # Main CLI application
+├── db.py               # Database functions and connection
+├── tracker.log         # Log file (auto-generated)
+├── requirements.txt    # Python dependencies
+└── README.md           # Project documentation
+```
 
 ---
 
@@ -87,7 +89,7 @@ python app.py
 
 ```
 
-This Application can:
+### This Application can:
 
 1.Manage applications
 
